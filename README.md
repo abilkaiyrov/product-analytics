@@ -16,16 +16,16 @@
 ## Установка
 
 1. Клонируйте проект и перейдите в его папку.
-2. virtualenv virt
-cd virt
-cd Scripts
-cd activate
+2. - virtualenv virt
+- cd virt
+- cd Scripts
+- cd activate
 3. Установите зависимости:
 pip install -r requirements.txt
 
 4. Выполните миграции базы данных:
-python manage.py makemigrations
-python manage.py migrate
+- python manage.py makemigrations
+- python manage.py migrate
 
 ## Использование
 

@@ -30,10 +30,11 @@ pip install -r requirements.txt
 ## Использование
 
 Запуск парсера:
-python manage.py parse_wb <ключевое_слово> --pages=<количество_страниц>
+- python manage.py parse_wb <ключевое_слово> --pages=<количество_страниц>
 
 Пример:
-python manage.py parse_wb смартфон --pages=2
+- python manage.py parse_wb смартфон --pages=2
+- python manage.py runserver
 
 ## Зависимости
 

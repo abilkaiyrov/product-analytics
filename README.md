@@ -35,6 +35,7 @@ pip install -r requirements.txt
 Пример:
 - python manage.py parse_wb смартфон --pages=2
 - python manage.py runserver
+- Просмотр API /api/products
 
 ## Зависимости
 
